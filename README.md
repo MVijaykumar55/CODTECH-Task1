@@ -24,8 +24,7 @@ Technologies Used
 	Functions: Functions are defined using the ‘def’ keyword. Each function encapsulates a specific task, such as performing an arithmetic operation like ‘add’, ‘subtract’, ‘multiply’ and ‘divide’.
 	Error handling: ‘try’ and ‘except’ are used to handle potential errors, such as invalid user Input.
 	Control Structures: Control Structures are like Conditional Statements and Loops.
-•	Control Structures are used to make decisions 
-based on user input, such as selecting the appropriate arithmetic operation.
+•	Control Structures are used to make decisions based on user input, such as selecting the appropriate arithmetic operation.
 •	Loops are used the ‘while’ loop could be used to prompt the user until valid input is provided continuously.
 	Data Types: The ‘float’ converts user input into floating-point numbers, allowing the calculator to handle decimal numbers and perform precise arithmetic  operations. This is essential  for arithmetic operations involving decimal values.
 [Screenshot (58)](https://github.com/user-attachments/assets/b0dcbd19-f10a-40c6-8e4e-aedb0a35f6b2)
